@@ -1,6 +1,6 @@
 # MALVIN-MD-BETA-Pair
 # PAIR CODE - MALVIN-MD
-```MADE BY Malvin Tech (ᴍᴀʟᴠɪɴ ᴋɪɴɢ)```
+```MADE BY Malvin Tech (Malvin King)```
 
 Welcome to the **Pair Code** project for **MALVIN-MD**. This application allows users to obtain a SESSION-ID by entering their phone number with the country code. It's a simple, interactive tool with a clean, modern interface designed to be both user-friendly and functional.
 
@@ -15,7 +15,7 @@ Welcome to the **Pair Code** project for **MALVIN-MD**. This application allows 
 
 ## Live Demo
 
-You can see the live demo of the Paire Code at [Live Demo Link](https://bizarre-silvia-thenu-md-pair-0408ca59.koyeb.app/).
+You can see the live demo of the Paire Code at [Live Demo Link](https://yucky-brittan-kingtech2-e7305eb9.koyeb.app/).
 
 ## Deployment
 
