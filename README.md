@@ -15,7 +15,7 @@ Welcome to the **Pair Code** project for **MALVIN-MD**. This application allows 
 
 ## Live Demo
 
-You can see the live demo of the Paire Code at [Live Demo Link](https://yucky-brittan-kingtech2-e7305eb9.koyeb.app/).
+You can see the live demo of the Paire Code at [Live Demo Link](https://malvin-session-b0fda4056c35.herokuapp.com/).
 
 ## Deployment
 
